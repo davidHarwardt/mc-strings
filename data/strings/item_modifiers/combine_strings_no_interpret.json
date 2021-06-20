@@ -1,0 +1,18 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": [
+      {
+        "nbt": "a",
+        "storage": "strings:data",
+        "interpret": false
+      },
+      {
+          "nbt": "b",
+          "storage": "strings:data",
+          "interpret": false
+      }
+    ]
+  }
+]
